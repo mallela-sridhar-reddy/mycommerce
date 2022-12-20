@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Mongo DB",
+      "price": 28900,
+      "duration": 20,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "productName": "Express JS",
+      "price": 14500,
+      "duration": 10,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "productName": "React JS",
+      "price": 27745,
+      "duration": 40,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "productName": "Angular JS",
+      "price": 28400,
+      "duration": 40,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "productName": "Node JS",
+      "price": 17780,
+      "duration": 20,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "productName": "Python",
+      "price": 25880,
+      "duration": 45,
+      "quantity": 0
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "email": "upshot@upshot.com",
+      "password": "upshot",
+      "phone": 9553996174,
+      "name": "abc",
+      "city": "NY"
+    },
+    {
+      "id": 2,
+      "email": "me@upshot.com",
+      "password": " upshot",
+      "phone": 9557996174,
+      "name": "xyz",
+      "city": "LA"
+    },
+    {
+      "id": 3,
+      "email": "sridhar@gmail.com",
+      "password": "1234567890",
+      "name": "sridhar",
+      "phone": "1122334455",
+      "city": "kadapa"
+    },
+    {
+      "id": 4,
+      "email": "pratapred@gmail.com",
+      "password": "sssssssssssssssssssssssss",
+      "name": "gggggggggggg",
+      "phone": "88888888888888",
+      "city": "nnnnnnnnnnnnn"
+    },
+    {
+      "id": 5,
+      "email": "s",
+      "password": "s",
+      "name": "s",
+      "phone": "2",
+      "city": "s"
+    },
+    {
+      "id": 6,
+      "email": "d",
+      "password": "d",
+      "name": "ds33",
+      "phone": "3",
+      "city": "d"
+    },
+    {
+      "id": 7,
+      "email": "w",
+      "password": "d",
+      "name": "d",
+      "phone": "2",
+      "city": "s"
+    },
+    {
+      "id": 8,
+      "email": "react@gmail.com",
+      "password": "react",
+      "name": "reactbro",
+      "phone": "1234567908",
+      "city": "hdhgd"
+    },
+    {
+      "id": 9,
+      "email": "monkey@gmail.com",
+      "password": "chimpanzee",
+      "name": "gibbon",
+      "phone": "9029383781",
+      "city": "forest"
+    }
+  ]
+}
